@@ -11,8 +11,8 @@
 | Languages       | Skills        | Currently Learning
 |-----------------|---------------|---------------------
 | Python          | Web design    | Java
-| HTML            | React         | C#
-| CSS             | SQL Databases | Full Stack Development
+| HTML            | SQL Databases | C#
+| CSS             |               | Full Stack Development
 | Javascript      |               |
 
 ## 📊 GitHub Stats
